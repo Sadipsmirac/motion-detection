@@ -1,0 +1,6 @@
+_pycache_/
+*.pyc
+*.weights
+*.cfg
+.env
+venv/
